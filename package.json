@@ -23,6 +23,7 @@
     "express": "^4.13.4",
     "github": "^7.0.1",
     "glob": "^7.0.3",
+    "jsonwebtoken": "^8.2.1",
     "lru-cache": "^4.0.1",
     "travis-ci": "^2.1.0"
   },
